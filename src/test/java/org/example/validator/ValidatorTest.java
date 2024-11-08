@@ -1,4 +1,4 @@
-package org.example;
+package org.example.validator;
 
 import org.example.validator.ArithmeticExpressionValidator;
 import org.junit.jupiter.api.Test;

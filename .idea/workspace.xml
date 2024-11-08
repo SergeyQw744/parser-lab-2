@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b4d546-be73-4ae0-b73d-d66aa2662842" name="Changes" comment="" />
+    <list default="true" id="a2b4d546-be73-4ae0-b73d-d66aa2662842" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AppD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exceptions/InvalidArithmeticExpressionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/parser/ArithmeticParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templates/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templates/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templates/Staples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/templates/Templates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/validator/ArithmeticExpressionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/calculator/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/parser/ParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/validator/ValidatorTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,13 +50,110 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\111\IdeaProjects\parser-lab-2\csv" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.validator" />
+      <recent name="org.example.parser" />
+      <recent name="org.example.calculator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppD">
+    <configuration name="AppD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AppD" />
+      <module name="parser-lab-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateInvalidException_throwException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser-lab-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.calculator" />
+      <option name="MAIN_CLASS_NAME" value="org.example.calculator.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateInvalidException_throwException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser-lab-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.parser" />
+      <option name="MAIN_CLASS_NAME" value="org.example.parser.ParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.tokenization_returnedListOfTokens" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser-lab-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.parser" />
+      <option name="MAIN_CLASS_NAME" value="org.example.parser.ParserTest" />
+      <option name="METHOD_NAME" value="tokenization_returnedListOfTokens" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser-lab-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.validator" />
+      <option name="MAIN_CLASS_NAME" value="org.example.validator.ValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppD" />
+        <item itemvalue="JUnit.ParserTest" />
+        <item itemvalue="JUnit.ParserTest.tokenization_returnedListOfTokens" />
+        <item itemvalue="JUnit.ValidatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateInvalidException_throwException" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
